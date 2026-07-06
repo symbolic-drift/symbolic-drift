@@ -10,7 +10,7 @@ ontology, then compare the resulting symbol sequence against a reference using
 sequence-aware (DTW, edit-distance) and distributional (Jensen–Shannon) metrics.
 
 The benchmark dataset is hosted on Hugging Face:
-**[sata-bench/SymbolicDrift](https://huggingface.co/datasets/sata-bench/SymbolicDrift)**.
+**[sota-bench/SymbolicDrift](https://huggingface.co/datasets/sota-bench/SymbolicDrift)**.
 
 ---
 
@@ -160,7 +160,7 @@ profile name. Set `AWS_PROFILE` if you need to pick a non-default one.
 ## Citation
 
 A preprint is forthcoming. In the meantime please cite the dataset card:
-<https://huggingface.co/datasets/sata-bench/SymbolicDrift>.
+<https://huggingface.co/datasets/sota-bench/SymbolicDrift>.
 
 ## License
 
